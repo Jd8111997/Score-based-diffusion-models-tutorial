@@ -4,7 +4,7 @@ This repository is dedicated to exploring the intricacies of score-based diffusi
 
 ## Motivation
 
-Understanding the inner workings of score-based diffusion models is crucial in the realm of machine learning. This project serves as a hands-on exploration, providing a practical and insightful perspective on the construction of these models from the ground up.
+Understanding the inner workings of score-based diffusion models is crucial in the realm of Generative AI for image modeling. This project serves as a hands-on exploration, providing a practical and insightful perspective on the construction of these models from the ground up.
 
 ## Acknowledgments
 
